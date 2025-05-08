@@ -1,0 +1,31 @@
+.reacticon{
+    margin: 3px;
+
+}
+.navLogoIcon{
+    width: 55px;
+}
+
+.funfact{
+    margin: 15px 0px 0px 3px;
+}
+
+.maincontainer{
+    padding-left: 15px;
+}
+
+.navList{
+    list-style: none;
+    display: flex;
+}
+
+.navList li{
+    display: inline-block;
+    margin: 5px;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
